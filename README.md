@@ -21,3 +21,6 @@ Turning Braille into Text and Speech using AI.
 - Shripadai
 - Savita Yatnalli
 - Megha
+
+- ## Live Demo
+https://preview--braille-vision-ai.lovable.app/
